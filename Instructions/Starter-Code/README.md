@@ -116,6 +116,22 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 
 * Submit the link to your GitHub repo on Bootcamp Spot.
 
+
+## Submit
+Transaction showing selected candidate, number of hours and ethereum address.
+
+![alt=""](Images/Streamlit.png)
+![alt=""](Images/Streamlit-1.png)
+
+Ganache screenshot showing address, balance and transaction count.
+
+![alt=""](Images/Ganache.png)
+![alt=""](Images/Ganache-1.png)
+
+Ganache screenshot showing transaction.
+
+![alt=""](Images/Ganache-2.png)
+
 ---
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
